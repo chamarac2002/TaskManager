@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fbackground">#5A86A4</color>#0F0E0E
+    <color name="ftextcolor">#0F0E0E</color>
+    <color name="otherpages">#7FA280</color>
+    <color name="tashbtn">#42637A</color>
+    <color name="todo">#1770ad</color>
+    <color name="timer">#264F6B</color>
+    <color name="stopwatch">#175681</color>
+    <color name="start">#1D8321</color>
+    <color name="pause">#495244</color>
+    <color name="reset">#8C3A3A</color>
+</resources>
+
